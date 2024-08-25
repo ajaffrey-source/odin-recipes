@@ -1,0 +1,1 @@
+This is going to be a basic project showcasing the skills I've learned in HTML so far. Should have a couple of pages, with structured lists on how to create some recipes.
